@@ -83,24 +83,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bpm_r\\.nuget\\packages\\": {}
+    "/home/bpm_r/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bpm_r\\OCU\\BookLibraryAPI\\BookLibraryAPI.csproj",
+      "projectUniqueName": "/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/BookLibraryAPI.csproj",
       "projectName": "BookLibraryAPI",
-      "projectPath": "C:\\Users\\bpm_r\\OCU\\BookLibraryAPI\\BookLibraryAPI.csproj",
-      "packagesPath": "C:\\Users\\bpm_r\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bpm_r\\OCU\\BookLibraryAPI\\obj\\",
+      "projectPath": "/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/BookLibraryAPI.csproj",
+      "packagesPath": "/home/bpm_r/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bpm_r\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/bpm_r/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -119,7 +120,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -149,7 +150,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.106/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

@@ -1,0 +1,9 @@
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/BookLibraryAPI.csproj.AssemblyReference.cache
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/rpswa.dswa.cache.json
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/BookLibraryAPI.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/BookLibraryAPI.AssemblyInfoInputs.cache
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/BookLibraryAPI.AssemblyInfo.cs
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/BookLibraryAPI.csproj.CoreCompileInputs.cache
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/BookLibraryAPI.MvcApplicationPartsAssemblyInfo.cs
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/BookLibraryAPI.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/bpm_r/OCU/BookLibraryAPI/obj/Debug/net10.0/BookLibraryAPI.sourcelink.json
